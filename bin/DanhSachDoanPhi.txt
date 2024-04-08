@@ -1,0 +1,10 @@
+1234:9999:Vo Tan Tai:Quy heo:12/03/2024:0,000000:Quy heo dat
+1234:1234:Duong Minh Tien:Quy heo:12/03/2024:0,000000:Quy heo dat
+1234:1234:Duong Minh Tien:Quy heo dat:12/03/2024:123000,000000:Quy heo Giang
+1200:9999:Vo Tan Tai:HUTECH:12/03/2024:123000,000000:Quy heo HUTECH
+5555:1234:Duong Minh Tien:Phi Hoi Thao:08/04/2024:500000,000000:Dong phi cho hoi thao
+7777:1234:Duong Minh Tien:HUTECH IT:13/04/2020:12000,000000:HUTECH IT
+1234:1234:Duong Minh Tien:Thanh Ba:12/03/2024:15000,000000:Thanh Ba gian
+1234:1234:Duong Minh Tien:MT nop tien:Ngay@421faab1:34000.0:MT nop tien
+1999:1234:Duong Minh Tien:MT nop tien:12/3/3:50000.0:MT nop tien
+4444:1234:Duong Minh Tien:MT nop tien:13/4/2024:60000.0:MT nop tien
