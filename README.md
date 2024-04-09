@@ -1,29 +1,29 @@
-# H? th?ng Qu?n l? D? án Java
+# He thong Quan ly Du an Java
 
-H? th?ng qu?n l? d? án Java là m?t ph?n quan tr?ng trong quá tr?nh phát tri?n ph?n m?m Java, giúp qu?n l? m? ngu?n, các thý vi?n ph? thu?c và các tài nguyên khác.
+He thong quan ly du an Java la mot phan quan trong trong qua trinh phat trien phan mem Java, giup quan ly ma nguon, cac thu vien phu thuoc va cac tai nguyen khac.
 
-## Các Phýõng pháp Qu?n l? D? án
+## Cac Phuong phap Quan ly Du an
 
-1. **Apache Maven**: Maven s? d?ng file c?u h?nh `pom.xml` ð? qu?n l? c?u trúc d? án và các ph? thu?c. Nó t? ð?ng t?i và qu?n l? các thý vi?n ph? thu?c t? các kho lýu tr? nhý Maven Central.
+1. **Apache Maven**: Maven su dung file cau hinh `pom.xml` de quan ly cau truc du an va cac phu thuoc. No tu dong tai va quan ly cac thu vien phu thuoc tu cac kho luu tru nhu Maven Central.
 
-2. **Gradle**: Gradle c?ng s? d?ng file c?u h?nh, nhýng ? d?ng script Groovy ho?c Kotlin. Nó cung c?p s? linh ho?t hõn Maven và cho phép xây d?ng nhi?u d? án l?n và ph?c t?p.
+2. **Gradle**: Gradle cung su dung file cau hinh, nhung o dang script Groovy hoac Kotlin. No cung cap su linh hoat hon Maven va cho phep xay dung nhieu du an lon va phuc tap.
 
-3. **Apache Ant**: Ant là công c? xây d?ng d?a trên XML, cho phép t?o các tác v? xây d?ng tùy ch?nh.
+3. **Apache Ant**: Ant la cong cu xay dung dua tren XML, cho phep tao cac tac vu xay dung tuy chinh.
 
-4. **Các công c? tích h?p trong IDE**: IDE ph? bi?n nhý Eclipse, IntelliJ IDEA và NetBeans cung c?p các công c? tích h?p ð? qu?n l? d? án Java t? giao di?n ngý?i dùng.
+4. **Cac cong cu tich hop trong IDE**: IDE pho bien nhu Eclipse, IntelliJ IDEA va NetBeans cung cap cac cong cu tich hop de quan ly du an Java tu giao dien nguoi dung.
 
-5. **Qu?n l? th? công**: T? tay t?i và qu?n l? các thý vi?n ph? thu?c, c?ng nhý s?p x?p c?u trúc thý m?c c?a d? án.
+5. **Quan ly thu cong**: Tu tay tai va quan ly cac thu vien phu thuoc, cung nhu sap xep cau truc thu muc cua du an.
 
-## Qu?n l? Thý m?c
+## Quan ly Thu muc
 
-C?u trúc thý m?c m?u c?a d? án Java có th? bao g?m:
+Cau truc thu muc mau cua du an Java co the bao gom:
 
-- `src`: Thý m?c ch?a m? ngu?n.
-- `lib`: Thý m?c ch?a các thý vi?n ph? thu?c.
-- `bin`: Thý m?c ch?a các file ð?u ra sau khi biên d?ch.
+- `src`: Thu muc chua ma nguon.
+- `lib`: Thu muc chua cac thu vien phu thuoc.
+- `bin`: Thu muc chua cac file dau ra sau khi bien dich.
 
-N?u mu?n tùy ch?nh c?u trúc thý m?c, có th? ch?nh s?a các thi?t l?p liên quan trong t?p tin `.vscode/settings.json`.
+Neu muon tuy chinh cau truc thu muc, co the chinh sua cac thiet lap lien quan trong tap tin `.vscode/settings.json`.
 
-## Qu?n l? Ph? thu?c
+## Quan ly Phu thuoc
 
-Có th? s? d?ng `JAVA PROJECTS` view trong VS Code ð? qu?n l? các ph? thu?c. Thêm thông tin chi ti?t [t?i ðây](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Co the su dung `JAVA PROJECTS` view trong VS Code de quan ly cac phu thuoc. Them thong tin chi tiet [tai day](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
