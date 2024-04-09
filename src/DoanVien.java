@@ -270,8 +270,7 @@ public class DoanVien {
             System.out.println("3. Sua thong tin doan vien");
             System.out.println("4. Tim kiem doan vien");
             System.out.println("5. Hoat dong doan vien");
-            System.out.println("6: Doan phi");
-            System.out.println("7: Xoa doan vien");
+            System.out.println("6: Xoa doan vien");
             System.out.println("0. Thoat");
             try{
                 System.out.print("Nhap lua chon: ");
@@ -320,11 +319,6 @@ public class DoanVien {
 
                } break;
                case 6:
-               {
-                DoanPhi dp = new DoanPhi();
-                dp.menu();
-               } break;
-               case 7:
                {
                 System.out.print("Nhap ma doan vien can xoa: ");
                 int id = sc.nextInt();
@@ -833,7 +827,7 @@ public class DoanVien {
     }
     //xuat thong tin doan vien
     public void output() {
-        System.out.printf("%-10d %-30s %02d/%02d/%4d %-8s %-30s %-10s    %-30s %02d/%02d/%4d %-10s %-10s\n",this.maDoanVien,this.hoTen,this.ngaySinh.getDay(),this.ngaySinh.getMonth(),this.ngaySinh.getYear(),this.gioiTinh,this.diaChi,this.soDienThoai,this.eMail,this.ngayVaoDoan.getDay(),this.ngayVaoDoan.getMonth(),this.ngayVaoDoan.getYear(),this.chucVuDoan,this.lopHoc);
+        System.out.printf("%-10d %-30s %02d/%02d/%-4d %-8s %-30s %-10s %-20s %02d/%02d/%-4d %-10s %-10s\n",this.maDoanVien,this.hoTen,this.ngaySinh.getDay(),this.ngaySinh.getMonth(),this.ngaySinh.getYear(),this.gioiTinh,this.diaChi,this.soDienThoai,this.eMail,this.ngayVaoDoan.getDay(),this.ngayVaoDoan.getMonth(),this.ngayVaoDoan.getYear(),this.chucVuDoan,this.lopHoc);
     }
 
          // Phuong thuc de xoa man hinh

@@ -1,2 +1,2 @@
-1234:7797::HUTECH IT OPENDAY:10/04/2024:E3.03.01:Ngay hoi tuyen dung
-1235:2109::HUTECH IT:07/04/2024:Online:Thi trac nghiem
+1234:7797:Bui Quang Vinh:HUTECH IT OPENDAY:10/04/2024:E3.03.01:Ngay hoi tuyen dung
+1235:2109:Ho Xuan Nguyen:RUNG CHUONG VANG:07/04/2024:Online:Thi trac nghiem

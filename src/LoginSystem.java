@@ -73,7 +73,7 @@ public class LoginSystem {
             return 0;
         }
 
-    // Phương thức để xóa màn hình
+        // Phương thức để xóa màn hình
     public static void clearScreen() {
         try {
             if (System.getProperty("os.name").contains("Windows")) {
